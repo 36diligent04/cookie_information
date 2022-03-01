@@ -95,7 +95,7 @@
         },
         {
           "cat_id": 30,
-          "cat_name": "洗衣机",
+          "cat_name": "三楼餐厅",
           "cat_pid": 1,
           "cat_level": 1,
           "cat_deleted": false,
@@ -103,19 +103,19 @@
           "children": [
             {
               "cat_id": 42,
-              "cat_name": "洗衣机",
+              "cat_name": "馋嘴鱼",
               "cat_pid": 30,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/d33bc76faf761d86692f6b79dbd5bdb007a6c060.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de6be2ab3f51d91625134.jpg"
             },
             {
               "cat_id": 43,
-              "cat_name": "滚筒洗衣机",
+              "cat_name": "鸡公煲",
               "cat_pid": 30,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/4f083927b8062beb2e2a8e5fbcb956e07231e644.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de7412ab3f51d91632b22.jpg"
             },
             {
               "cat_id": 44,
