@@ -119,75 +119,19 @@
             },
             {
               "cat_id": 44,
-              "cat_name": "波轮洗衣机",
+              "cat_name": "烧鸭饭",
               "cat_pid": 30,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/2333a004401004514d43fc56bf3a08de3d6dee44.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de7642ab3f51d916366d8.jpg"
             },
             {
               "cat_id": 45,
-              "cat_name": "大容量洗衣机",
+              "cat_name": "重庆小面酸辣粉",
               "cat_pid": 30,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/e2459762678fe83b75b10dab705d9be2570d014c.jpg"
-            },
-            {
-              "cat_id": 46,
-              "cat_name": "迷你洗衣机",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/1fa57f855d15370a93c16c12b856fae164458c5b.jpg"
-            },
-            {
-              "cat_id": 47,
-              "cat_name": "双缸洗衣机",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/d8549a361e957132f07d7a9ebcee9bcf9adc12a1.jpg"
-            },
-            {
-              "cat_id": 48,
-              "cat_name": "干衣机",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/259207618f9cb1fda1fcb8f4ce16280bde8959de.jpg"
-            },
-            {
-              "cat_id": 49,
-              "cat_name": "洗衣机服务",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/ac69da199d085a7c59360686310697565ef8083e.jpg"
-            },
-            {
-              "cat_id": 50,
-              "cat_name": "西门子",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/b7c7741303e60a58bbc5ea6ad6679cd0c7f08ce7.jpg"
-            },
-            {
-              "cat_id": 51,
-              "cat_name": "海尔",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/d2a002e5912a0cf8e74352a9ea38e17e165ccc8d.jpg"
-            },
-            {
-              "cat_id": 52,
-              "cat_name": "小天鹅",
-              "cat_pid": 30,
-              "cat_level": 2,
-              "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/3732a28271acaadbdedefb7445efae3aac1c3c81.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de77b2ab3f51d91638e73.jpg"
             }
           ]
         },
