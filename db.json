@@ -53,7 +53,7 @@
        
         {
           "cat_id": 7,
-          "cat_name": "空调",
+          "cat_name": "二楼餐厅",
           "cat_pid": 1,
           "cat_level": 1,
           "cat_deleted": false,
@@ -61,11 +61,11 @@
           "children": [
             {
               "cat_id": 23,
-              "cat_name": "变频空调",
+              "cat_name": "黄焖鸡",
               "cat_pid": 7,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/994977fac8f4fa6cea5eb413cd64ddac24a97600.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de7a42ab3f51d9163cc23.jpg"
             },
             {
               "cat_id": 24,
