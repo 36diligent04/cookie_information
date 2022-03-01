@@ -8,6 +8,144 @@
       "cat_deleted": false,
       "cat_icon": "/full/none.jpg",
       "children": [
+        {
+          "cat_id": 3,
+          "cat_name":"一楼餐厅",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "/full/none.jpg",
+          "children": [
+            {
+              "cat_id": 5,
+              "cat_name": "麻辣香锅",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://pic.imgdb.cn/item/621de4b02ab3f51d915eaf29.jpg"
+            },
+            {
+              "cat_id": 6,
+              "cat_name": "广式烧鸭饭",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://pic.imgdb.cn/item/621de5f52ab3f51d91610ae6.jpg"
+            },
+            {
+              "cat_id": 8,
+              "cat_name": "温馨粥铺",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://pic.imgdb.cn/item/621de8232ab3f51d9164a689.jpg"
+            },
+            {
+              "cat_id": 9,
+              "cat_name": "鸡公煲",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://pic.imgdb.cn/item/621de8462ab3f51d9164ecd8.jpg"
+            },
+            {
+              "cat_id": 10,
+              "cat_name": "TCL",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/86832cc37db8474ac07853c835009f9873eaec89.jpg"
+            },
+            {
+              "cat_id": 11,
+              "cat_name": "PPTV",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/41c169f14680b3ebf88b4a37ea09085ed731c985.jpg"
+            },
+            {
+              "cat_id": 12,
+              "cat_name": "小米",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5c282c3ec283fbc092107f8c7b86f212365acdfa.jpg"
+            },
+            {
+              "cat_id": 13,
+              "cat_name": "长虹",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/14291787e1f9f0215816048e813e4ec4fbb3dffe.jpg"
+            },
+            {
+              "cat_id": 14,
+              "cat_name": "康佳",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/de58455691bc7b85351055c220f1a5410ab15693.jpg"
+            },
+            {
+              "cat_id": 15,
+              "cat_name": "三星",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/8b36730c09815e90de1f86664baef8690c89e979.jpg"
+            },
+            {
+              "cat_id": 16,
+              "cat_name": "飞利浦",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/7643c31541df41da21c9e734bd2d9a18fed2a2aa.jpg"
+            },
+            {
+              "cat_id": 17,
+              "cat_name": "索尼",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/e8c76dd2bb103a620929bcb4ad5c5431d62418d3.jpg"
+            },
+            {
+              "cat_id": 18,
+              "cat_name": "先锋",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5a46bef92bf32f0157b4d5a6d9a35ca8a5615aca.jpg"
+            },
+            {
+              "cat_id": 19,
+              "cat_name": "家庭影院",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5fae60f2cc05c53eaf43075db7eb82bfc9bba9b4.jpg"
+            },
+            {
+              "cat_id": 20,
+              "cat_name": "音响",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/5515d491f88587084e59aac50010458bb916ee17.jpg"
+            },
+            {
+              "cat_id": 21,
+              "cat_name": "盒子",
+              "cat_pid": 3,
+              "cat_level": 2,
+              "cat_deleted": false,
+              "cat_icon": "https://api-hmugo-web.itheima.net/full/e65bab9fcb64c336a3f5fba3b2174fef41f12330.jpg"
+            }
+          ]
+        },
        
         {
           "cat_id": 7,
