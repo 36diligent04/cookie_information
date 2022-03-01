@@ -23,7 +23,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de4b02ab3f51d915eaf29.jpg"
-              }，
+              },
               {
                 "cat_id": 4 ,
                 "cat_name": "广式烧鸭饭",
@@ -31,7 +31,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de5f52ab3f51d91610ae6.jpg"
-              }，
+              },
               {
                 "cat_id": 5 ,
                 "cat_name": "温馨粥铺",
@@ -39,7 +39,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de8232ab3f51d9164a689.jpg"
-              }，
+              },
               {
                 "cat_id": 6 ,
                 "cat_name": "鸡公煲",
@@ -65,7 +65,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de7a42ab3f51d9163cc23.jpg"
-              }，
+              },
               {
                 "cat_id": 9 ,
                 "cat_name": "麻辣烫",
@@ -73,7 +73,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de7c52ab3f51d9164070a.jpg"
-              }，
+              },
               {
                 "cat_id": 10 ,
                 "cat_name": "重庆小面",
@@ -81,7 +81,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de7d82ab3f51d91642be9.jpg "
-              }，
+              },
               {
                 "cat_id": 11,
                 "cat_name": "无骨烤鱼饭",
@@ -107,7 +107,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de6be2ab3f51d91625134.jpg"
-              }，
+              },
               {
                 "cat_id": 14,
                 "cat_name": "鸡公煲",
@@ -115,7 +115,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de7412ab3f51d91632b22.jpg"
-              }，
+              },
               {
                 "cat_id": 15,
                 "cat_name": "烧鸭饭",
@@ -123,7 +123,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de7642ab3f51d916366d8.jpg"
-              }，
+              },
               {
                 "cat_id": 16,
                 "cat_name": "重庆小面酸辣粉",
@@ -159,7 +159,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de8a12ab3f51d9165878e.jpg"
-              }，
+              },
               {
                 "cat_id": 20,
                 "cat_name": "便携快餐",
@@ -167,7 +167,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de8ca2ab3f51d9165d4c4.jpg"
-              }，
+              },
               {
                 "cat_id": 21,
                 "cat_name": "烩菜盖饭",
@@ -175,7 +175,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de8e32ab3f51d9165fb13.jpg"
-              }，
+              },
               {
                 "cat_id": 22,
                 "cat_name": "煲仔饭",
@@ -211,7 +211,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de98d2ab3f51d91671139.jpg"
-              }，
+              },
               {
                 "cat_id": 26 ,
                 "cat_name": "煎肉饭",
@@ -219,14 +219,15 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de99d2ab3f51d91672cdf.jpg"
-              }，{
+              },
+                {
                 "cat_id": 27 ,
                 "cat_name": "精品快餐",
                 "cat_pid": 24,
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de9ac2ab3f51d91674836.jpg"
-              }，
+              },
               {
                 "cat_id": 28 ,
                 "cat_name": "小巷焖饭",
@@ -252,7 +253,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de9e62ab3f51d9167b389.jpg"
-              }，
+              },
               {
                 "cat_id": 31,
                 "cat_name": "至尊咖喱饭",
@@ -260,14 +261,15 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de9fd2ab3f51d9167d995.jpg"
-              }，{
+              },
+                {
                 "cat_id": 32,
                 "cat_name": "张大嘴掉渣饼",
                 "cat_pid": 29,
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621dea0f2ab3f51d9167f73d.jpg"
-              }，
+              },
               {
                 "cat_id": 33,
                 "cat_name": "家常面食",
@@ -293,7 +295,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621de39a2ab3f51d915ceef6.jpg"
-              }，
+              },
               {
                 "cat_id": 36,
                 "cat_name": "精品盖浇",
@@ -301,14 +303,15 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621dea452ab3f51d91684a12.jpg"
-              }，{
+              },
+                {
                 "cat_id": 37,
                 "cat_name": "风味小炒盖浇饭",
                 "cat_pid": 34,
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621dea572ab3f51d9168663c.jpg"
-              }，
+              },
               {
                 "cat_id": 38 ,
                 "cat_name": "阿力甜食",
@@ -344,7 +347,7 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621deaa12ab3f51d9168d64d.jpg"
-              }，
+              },
               {
                 "cat_id": 42,
                 "cat_name": "快餐",
@@ -352,14 +355,15 @@
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621deaba2ab3f51d9168fb2b.jpg"
-              }，{
+              },
+                {
                 "cat_id": 43 ,
                 "cat_name": "面食",
                 "cat_pid": 40,
                 "cat_level": 2,
                 "cat_deleted": false,
                 "cat_icon": "https://pic.imgdb.cn/item/621deac92ab3f51d91691495.jpg"
-              }，
+              },
               {
                 "cat_id": 44,
                 "cat_name": "精品盖浇",
