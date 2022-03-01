@@ -77,19 +77,19 @@
             },
             {
               "cat_id": 25,
-              "cat_name": "挂壁空调",
+              "cat_name": "重庆小面",
               "cat_pid": 7,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/7f3dfec1efdb2559d7fba1ea39d901f4763fae21.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de7d82ab3f51d91642be9.jpg"
             },
             {
               "cat_id": 26,
-              "cat_name": "中央空调",
+              "cat_name": "无骨烤鱼饭",
               "cat_pid": 7,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/47a417ea3c71e5b88a261729e43706611da4ae7e.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de7f42ab3f51d91645603.jpg"
             },
             {
               "cat_id": 27,
