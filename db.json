@@ -26,27 +26,27 @@
             },
             {
               "cat_id": 6,
-              "cat_name": "海信",
+              "cat_name": "广式烧鸭饭",
               "cat_pid": 3,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/5e38cf9e6e7c46a17fe1c597a883ae627977b296.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de5f52ab3f51d91610ae6.jpg"
             },
             {
               "cat_id": 8,
-              "cat_name": "夏普",
+              "cat_name": "温馨粥铺",
               "cat_pid": 3,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/cece39bd7e9654c20043e4af71696e1f838d4a22.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de8232ab3f51d9164a689.jpg"
             },
             {
               "cat_id": 9,
-              "cat_name": "创维",
+              "cat_name": "鸡公煲",
               "cat_pid": 3,
               "cat_level": 2,
               "cat_deleted": false,
-              "cat_icon": "https://api-hmugo-web.itheima.net/full/f62eba98423af3311487f3331c6798d8f099c893.jpg"
+              "cat_icon": "https://pic.imgdb.cn/item/621de8462ab3f51d9164ecd8.jpg"
             },
             {
               "cat_id": 10,
