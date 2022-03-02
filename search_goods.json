@@ -1,0 +1,16 @@
+{
+    "message": [
+        {
+            "goods_id": 57445,
+            "goods_name": "麻辣香锅"
+        },
+        {
+            "goods_id": 57440,
+            "goods_name": "麻辣烫"
+        }
+    ],
+    "meta": {
+        "msg": "获取成功",
+        "status": 200
+    }
+}
